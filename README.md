@@ -4,6 +4,14 @@ A Python-based network security tool for scanning TCP ports on target hosts usin
 
 ⚠️ **Legal Warning**: Only scan systems you own or have explicit written permission to test. Unauthorized port scanning may be illegal in your jurisdiction.
 
+## Demo
+
+Here's what the scanner looks like in action (local network example - all IPs anonymized):
+
+![Multi-Threaded Port Scanner Demo](screenshots/demo.png)
+
+*All targets scanned with explicit permission. Never scan networks you don't own or aren't authorized to test!*
+
 ## Features
 
 - ✅ Multi-threaded scanning (50 concurrent connections)
